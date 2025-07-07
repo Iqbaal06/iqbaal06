@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Iqbal</h1>
 <p align="center">
-  <i>She/Her • Web Developer • Creative Learner</i><br>
+  <i>He/Him • Web Developer • Creative Learner</i><br>
   <b>"To be better"</b>
 </p>
 
@@ -18,19 +18,19 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```sh
-root@irfha: ~/my_readme (main⚡)$ neofetch
+root@iqbal: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/193067540?s=400&u=b80a435d70eab1bbd6000cc79a263b9678551d08&v=4" width="130px"/>
+<img align="left" src="https://avatars.githubusercontent.com/u/219433774?s=400&u=d8a2f4cb35873d938117c28b7e8ec13d826f6d46&v=4" width="130px"/>
 
 ```csharp
 My Profile
 -------------------------------
-Host: irfha.com
-Username: Irfha Najla Qisti A.R
+Host: iqbal.me
+Username: Iqbal Rizki Maulana
 WhoamI: Normal People.
 Languages: JavaScript, HTML, PHP
-Loves: Suga.
+Loves: -
 Pronouns: He-Him.
 Location: Indonesian, Jawa Barat.
 FavouriteSong: Prom Queen - Beach Bunny.
@@ -66,16 +66,7 @@ Beach Bunny - Prom Queen</b></p>
 
 ## 💼 Projects I'm Proud Of
 
-### 🌐 [Personal Web](https://github.com/irfha05/personal-web)
-Website pribadi dengan:
-- Admin dashboard
-- Statistik pengunjung (grafik & jumlah)
-- Komentar dinamis
-- Peta Google Maps interaktif
-- Responsive Tailwind CSS UI
-
-### 🖼️ [Portofolio](https://github.com/irfha05/portofolio)
-Tampilan simpel dan cantik untuk memperkenalkan diri dan karya.
+Nothing
 
 ---
 
@@ -112,23 +103,23 @@ Tampilan simpel dan cantik untuk memperkenalkan diri dan karya.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfha05&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbaal06&show_icons=true&theme=tokyonight" width="400" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/irfha05"><img src="https://github-readme-streak-stats.herokuapp.com?user=irfha05&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/irfha05"><img src="https://github-readme-streak-stats.herokuapp.com?user=iqbaal06&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/irfha05"><img src="https://github-profile-trophy.vercel.app/?username=irfha05&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/irfha05"><img src="https://github-profile-trophy.vercel.app/?username=iqbaal06&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/@itsnaqis.ar_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsnaqis.ar)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289524108860)
+[![Instagram](https://img.shields.io/badge/@iqbaaal_rm_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iqbaaal_rm)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281315995628)
 
 ---
 
