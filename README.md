@@ -107,11 +107,7 @@ Nothing
 </p>
 
 <p align="center">
-  <a href="https://github.com/irfha05"><img src="https://github-readme-streak-stats.herokuapp.com?user=iqbaal06&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/irfha05"><img src="https://github-profile-trophy.vercel.app/?username=iqbaal06&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/iqbaal06"><img src="https://github-readme-streak-stats.herokuapp.com?user=iqbaal06&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
 ---
