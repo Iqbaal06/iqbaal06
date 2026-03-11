@@ -21,7 +21,7 @@
 root@iqbal: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/219433774?s=400&u=d8a2f4cb35873d938117c28b7e8ec13d826f6d46&v=4" width="130px"/>
+<img align="left" src="" width="130px"/>
 
 ```csharp
 My Profile
