@@ -85,7 +85,7 @@ Nothing
 ## 📊 GitHub Stats
 
 <p>
-  <a href="https://github.com/iqbaal06"><img src="https://github-readme-streak-stats.herokuapp.com?user=iqbaal06&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" width="100%" /><a>
+  <a href="https://github.com/iqbaal06"><img src="https://github-readme-streak-stats.herokuapp.com?user=iqbaal06&theme=vue&hide_border=false&properties=background&border=%239611C5FF" width="100%" /><a>
 </p>
 
 <p>
