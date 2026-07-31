@@ -1,0 +1,36 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: iqbaal06
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Plugin untuk memunculkan grafik 3D isometrik & bahasa
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_ignored: details
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_other: yes
+          
+          # Plugin untuk grafik radar & statistik tambahan
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
