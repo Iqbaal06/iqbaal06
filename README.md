@@ -70,22 +70,34 @@ Nothing
 
 ---
 
-## 🎵 Random Music Spotify
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://open.spotify.com" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqbaal06&show_icons=true&theme=tokyonight" width="400" />
+<p>
+  <a href="https://github.com/iqbaal06"><img src="https://github-readme-streak-stats.herokuapp.com?user=iqbaal06&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" width="100%" /><a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/iqbaal06"><img src="https://github-readme-streak-stats.herokuapp.com?user=iqbaal06&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbaal06&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+</p>
+
+<p>
+  <<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqbaal06/iqbaal06/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iqbaal06/iqbaal06/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iqbaal06/iqbaal06/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
