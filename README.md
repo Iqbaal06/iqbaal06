@@ -82,6 +82,24 @@ Nothing
 
 \---
 
+## 🎯 My Goals
+
+* 🌱 Terus belajar backend \& API development
+* 🌐 Membangun sistem pemesanan jasa online
+* 📊 Tambah fitur chart \& statistik real-time
+* 🚀 Deploy ke hosting publik / portofolio online
+* 🎓 Jadi developer profesional setelah kuliah
+
+\---
+
+## 🎵 Random Music Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com" target="\_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+\---
+
 ## 📊 GitHub Stats
 
 <p align="center">
