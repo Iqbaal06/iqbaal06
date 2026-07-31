@@ -82,30 +82,14 @@ Nothing
 
 \---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p>
-
-&#x20; <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbaal06\&bg\_color=00000000\&color=94A3B8\&line=22D3EE\&point=38BDF8\&area=true\&hide\_border=true" alt="GitHub activity graph" width="100%" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbaal06\&show\_icons=true\&theme=tokyonight" width="400" />
 </p>
 
-<p>
-
-&#x20; <picture>
-
-&#x20;   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iqbaal06/iqbaal06/output/puzzle-bobble-contribution-graph-dark.svg" />
-
-&#x20;   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iqbaal06/iqbaal06/output/puzzle-bobble-contribution-graph.svg" />
-
-&#x20;   <img src="https://raw.githubusercontent.com/iqbaal06/iqbaal06/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
-
-&#x20; </picture>
-
-</p>
-
-<p>
-  <a href="https://github.com/iqbaal06"><img src="https://github-readme-streak-stats.herokuapp.com?user=iqbaal06\&theme=tokyonight\&hide\_border=false\&properties=background\&border=%239611C5FF" width="100%" /><a>
+<p align="center">
+  <a href="https://github.com/iqbaal06"><img src="https://github-readme-streak-stats.herokuapp.com?user=iqbaal06\&theme=tokyonight\&hide\_border=false\&properties=background\&border=%239611C5FF" /><a>
 </p>
 
 \---
